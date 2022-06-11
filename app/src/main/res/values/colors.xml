@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+
+    <!--    <color name="colorAccent">#D81B60</color>-->
+
+    <color name="background">#FFFFFF</color>
+    <!--    <color name="background">#E2F5F8</color>-->
+    <color name="btn_txt_color">#fff</color>
+
+    <color name="text_hint">#42A5F5</color>
+
+    <color name="recyclercolor">#FFFFFF</color>
+    <color name="cardbackground">#FFFFFF</color>
+
+    <color name="datepickercolor">#6BB9F8</color>
+
+    <color name="lable_color">#7C7C7C</color>
+    <color name="silver">#D2D3D3</color>
+    <color name="app_color">#FFFFFF</color>
+    <color name="white_color">#FFF</color>
+    <color name="blue_color">#389BE9</color>
+    <color name="blue_50">#389BE9</color>
+    <color name="pink_color">#D81B60</color>
+    <color name="blue_lite">#C4E4FB</color>
+
+    <color name="buttonlable">#000000</color>
+
+    <color name="app_actionBar_color">#FFF</color>
+    <color name="app_toolBar_color">#80000000</color>
+
+    <color name="txt_color_white">#FFF</color>
+    <color name="txt_color_orange">#FA8D6B</color>
+    <color name="txt_color_blue">#389BE9</color>
+    <color name="txt_color_red">#F44336</color>
+    <color name="txt_color_green">#66B869</color>
+    <color name="txt_color_demo">#E04312</color>
+
+    <color name="black_color">#000</color>
+    <color name="black_feint_1">#80000000</color>
+    <color name="black_feint_2">#4A000000</color>
+    <color name="black_feint_3">#2C000000</color>
+    <color name="black_feint_4">#11000000</color>
+    <color name="black_feint_5">#F7F2F2</color>
+
+    <color name="txt_color_black_1">#AE000000</color>
+    <color name="txt_color_black_2">#80000000</color>
+
+
+</resources>
